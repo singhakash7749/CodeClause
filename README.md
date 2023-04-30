@@ -1,4 +1,4 @@
 # CodeClause_Texteditor
-python development project 
-this is a text editor created using python 
-you can add your text or data in this editor 
+python development project. 
+This is a text editor created using python. 
+You can add your text or data in this editor 
